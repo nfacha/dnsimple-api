@@ -1,5 +1,6 @@
 {
     "name": "nfacha/dnsimple-php",
+    "version": "1.0.0",
     "license": "AGPL-3.0-or-later",
     "description": "Class to manage DNS records using the dnsimple.com API",
     "type": "library",
