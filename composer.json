@@ -1,0 +1,15 @@
+{
+    "name": "nfacha/dnsimple-php",
+    "license": "GNU AGPLv3",
+    "description": "Class to manage DNS records using the dnsimple.com API",
+    "type": "library",
+    "require": {
+        "php-curl-class/php-curl-class": "^8.7"
+    },
+    "authors": [
+        {
+            "name": "Nuno Facha",
+            "email": "nuno@facha.dev"
+        }
+    ]
+}
